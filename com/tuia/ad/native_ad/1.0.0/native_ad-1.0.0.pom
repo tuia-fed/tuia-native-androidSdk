@@ -3,13 +3,13 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.tuia.ad</groupId>
-  <artifactId>adAar</artifactId>
+  <artifactId>native_ad</artifactId>
   <version>1.0.0</version>
   <packaging>aar</packaging>
   <dependencies>
     <dependency>
       <groupId>com.tuia.ad_base</groupId>
-      <artifactId>adBaseAar</artifactId>
+      <artifactId>native_ad_base</artifactId>
       <version>1.0.0</version>
       <scope>compile</scope>
     </dependency>
