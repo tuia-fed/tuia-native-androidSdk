@@ -16,3 +16,8 @@ tuia native Ad Android SDK  repository
 ## v1.0.3
 1、解决webview缓存导致活动重复出现的问题
 
+## v1.0.4
+1、新增虚拟奖品
+2、新增浮标
+3、新增更多福利
+4、优化性能
