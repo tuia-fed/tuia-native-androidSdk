@@ -21,3 +21,6 @@ tuia native Ad Android SDK  repository
 2、新增浮标
 3、新增更多福利
 4、优化性能
+
+## v1.0.4.1
+1、新增userId 媒体对接虚拟奖品时必传（需要媒体具有用户体系）
