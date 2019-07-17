@@ -27,3 +27,6 @@ tuia native Ad Android SDK  repository
 
 ## v1.0.4.2
 1、优化网络下载
+
+## v1.0.4.3
+1、去掉活动上的返回按钮
