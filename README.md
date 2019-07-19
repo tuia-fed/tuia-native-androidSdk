@@ -30,3 +30,6 @@ tuia native Ad Android SDK  repository
 
 ## v1.0.4.3
 1、去掉活动上的返回按钮
+
+## 解决跨域问题
+1、去掉活动上的返回按钮
