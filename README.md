@@ -38,3 +38,6 @@ tuia native Ad Android SDK  repository
 ## v1.0.4.5
 1、解决嵌入式弹窗关闭按钮无法响应的bug
 2、解决嵌入式弹窗虚拟奖品图片无法显示的bug
+
+## v1.0.6.0
+1、优化广告流程，统一Android和JS
