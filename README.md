@@ -54,3 +54,6 @@ tuia native Ad Android SDK  repository
 ## v1.0.7.0
 1、整合sdk功能，整合了base工具类，修改了广告的新版请求接口
 
+## v1.0.7.1
+1、整合1.0.7.0与1.0.6.3
+
