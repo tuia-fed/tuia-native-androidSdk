@@ -18,7 +18,14 @@
       <version>1.0.6.0</version>
       <version>1.0.6.2</version>
       <version>1.0.6.4</version>
+      <version>1.0.7.1</version>
+      <version>1.0.7.2</version>
+      <version>1.0.7.3</version>
+      <version>1.0.7.4</version>
+      <version>1.0.7.5</version>
+      <version>1.0.7.6</version>
+      <version>1.0.7.8</version>
     </versions>
-    <lastUpdated>20191023030419</lastUpdated>
+    <lastUpdated>20191023033102</lastUpdated>
   </versioning>
 </metadata>
