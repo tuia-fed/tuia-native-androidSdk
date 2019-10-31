@@ -41,6 +41,8 @@ tuia native Ad Android SDK  repository
 
 ## v1.0.4.7
 1、修复极客公社空指针问题
+## v1.0.4.8
+1、非http scheme唤起第三方应用
 
 ## v1.0.6.0
 1、优化广告流程，统一Android和JS
@@ -51,9 +53,12 @@ tuia native Ad Android SDK  repository
 ## v1.0.6.3
 1、处理新版广告的返回事件
 
+## v1.0.6.4
+1、升级utilcode包到1.25.9版本，修复低版本Android 系统的闪退问题
+
 ## v1.0.7.0
 1、整合sdk功能，整合了base工具类，修改了广告的新版请求接口
 
-## v1.0.7.1
+## v1.0.7.8
 1、整合1.0.7.0与1.0.6.3
 
