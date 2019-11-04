@@ -1,6 +1,11 @@
 # tuia-native-androidSdk
 tuia native Ad Android SDK  repository
 
+# sdk基础信息
+SDK 包体大小: SDK根据版本不同大小在200K ～ 260K
+SDK 信息抓取: 只上报内部必要的信息，不抓取额外信息（不具备用户信息抓取功能）
+SDK 引起ANR/OOM等概率: 低
+
 # 版本更新
 ## V1.0.0
 1、优化广告性能
