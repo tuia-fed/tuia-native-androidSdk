@@ -8,7 +8,8 @@ tuia native Ad Android SDK  repository
 
 **SDK 引起ANR/OOM等概率:** 低
 
-**SDK 代码混淆:** 否（开发者可看到内部逻辑）
+**SDK 代码混淆:** 否 （如对信息抓取有疑问，开发者可直接进入sdk内部看到业务逻辑 ，本sdk没有相关获取用户信息的内容）
+
 
 # 版本更新
 ## V1.0.0
