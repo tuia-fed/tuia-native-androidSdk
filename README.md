@@ -76,4 +76,4 @@ tuia native Ad Android SDK  repository
 1、支持嵌入式内外切换
 
 ## v1.0.8.0
-1、添加数据统计与及崩溃记录
+1、添加数据统计与崩溃记录
