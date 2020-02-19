@@ -4,9 +4,15 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.tuia.ad</groupId>
   <artifactId>native_ad</artifactId>
-  <version>1.0.8.2</version>
+  <version>1.0.8.3</version>
   <packaging>aar</packaging>
   <dependencies>
+    <dependency>
+      <groupId>com.tuia</groupId>
+      <artifactId>sdk_base</artifactId>
+      <version>1.6.0.2</version>
+      <scope>compile</scope>
+    </dependency>
     <dependency>
       <groupId>tuia-android-sdk</groupId>
       <artifactId>native_ad_base</artifactId>
